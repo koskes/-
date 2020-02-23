@@ -21,6 +21,3 @@ for line in fin:
         print ("η",y,"ειναι κακη λεξη")
     elif len(grammata) > len(newbadlet):
         print ("η",y,"ειναι καλη λεξη")
-    else:
-        print("η",y," έχει ελλειπη στοιχεια")
-  
